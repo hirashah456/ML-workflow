@@ -121,7 +121,7 @@ Click **Open in Colab** above → **Runtime → Run all**.
 ### Option B — Local Jupyter
 
 ```bash
-git clone https://github.com/yourname/titanic-ml.git
+git clone https://github.com/hirashah456/titanic-ml.git
 cd titanic-ml
 pip install -r requirements.txt
 jupyter notebook colab_pipeline.ipynb
