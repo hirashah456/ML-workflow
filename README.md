@@ -317,4 +317,4 @@ To expose from Colab, uncomment the **ngrok cell** (cell 8) and add your token f
 
 ## License
 
-MIT ©
+MIT 
