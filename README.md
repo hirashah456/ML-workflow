@@ -74,7 +74,7 @@ The dataset has a mild class imbalance (~62% died, ~38% survived), addressed via
 
 ```
 .
-├── colab_pipeline.ipynb      # Full pipeline notebook (run in Colab)
+├── colab_pipeline.py      # Full pipeline notebook (run in Colab)
 ├── api_app.py                # FastAPI inference server
 ├── requirements.txt
 ├── .gitignore
